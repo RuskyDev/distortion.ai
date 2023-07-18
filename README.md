@@ -1,5 +1,5 @@
 # Distortion.ai
-Distortion.ai is a basic image distortion model built using PgJSOM2. It provides a simple way to apply various distortion effects to images uploaded by users.
+Distortion.ai is a basic image distortion model built using Javascript. It provides a simple way to apply various distortion effects to images uploaded by users.
 
 ## Features
 - Upload an image file to apply distortion effects
@@ -11,4 +11,4 @@ Distortion.ai is a basic image distortion model built using PgJSOM2. It provides
 ## Technologies Used
 - HTML
 - CSS (Tailwind CSS)
-- JavaScript (PgJSOM2)
+- JavaScript
